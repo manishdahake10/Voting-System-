@@ -63,16 +63,16 @@ Candidates:
 Enter the number of voters: 4
 
 Voter 1:
-Enter the candidate number you want to vote for (1 for Alice, 2 for Bob, 3 for Charlie): 2
+Enter the candidate number you want to vote for: 2
 
 Voter 2:
-Enter the candidate number you want to vote for (1 for Alice, 2 for Bob, 3 for Charlie): 2
+Enter the candidate number you want to vote for: 2
 
 Voter 3:
-Enter the candidate number you want to vote for (1 for Alice, 2 for Bob, 3 for Charlie): 3
+Enter the candidate number you want to vote for: 3
 
 Voter 4:
-Enter the candidate number you want to vote for (1 for Alice, 2 for Bob, 3 for Charlie): 1
+Enter the candidate number you want to vote for: 1
 
 Voting Results:
 Samvidhan Sharma received 1 votes.
