@@ -47,7 +47,7 @@ Once the program runs, you will be prompted to either:
 - View voting results (if you are an admin).
 - Exit the system.
 
-### Example Output
+### Output
  ```bash
 Welcome to the Voting System
 Here are the available candidates:
